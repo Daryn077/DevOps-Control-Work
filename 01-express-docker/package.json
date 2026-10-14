@@ -1,0 +1,13 @@
+{
+  "name": "express-docker-control",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DevOps control work: Express in Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
